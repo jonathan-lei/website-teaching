@@ -36,10 +36,11 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Scholorship News
+  - name: Simplifying Learning
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'We study hard, so you don''t need to. We have developed our own comprehensive
+      curriculum, so instead of spending hours scouring the internet, take a breath
+      of fresh air by joining today. '
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
