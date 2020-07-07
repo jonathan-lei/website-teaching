@@ -75,14 +75,14 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = "[REPLACE ADDRESS]"
+author = "Jonathan Lei"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "[REPLACE NAME] provides premium STEM classes for free. "
+email = "inquiry@[REPLACE NAME].com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+[REPLACE NUMBER]"
 top_header = true
 [params.map]
 enable = true
