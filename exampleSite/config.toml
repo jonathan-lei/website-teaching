@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "https://5f03e359f5c941cac0aec176--festive-heyrovsky-6746ab.netlify.app"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 # post pagination
