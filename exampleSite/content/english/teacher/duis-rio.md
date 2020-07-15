@@ -42,6 +42,7 @@ contact:
 - name: 1313 Boulevard Cremazie,Quebec
   icon: ti-location-pin
   link: "#"
+draft: true
 
 ---
 ### About Me
