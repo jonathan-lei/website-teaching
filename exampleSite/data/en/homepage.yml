@@ -34,11 +34,11 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Simplifying Learning
+  - name: Unified Curriculum
     icon: ti-book
     content: 'We study hard, so you don''t need to. We have developed our own comprehensive
-      curriculum, so instead of spending hours scouring the internet, take a breath
-      of fresh air by joining today. '
+      curriculum, so instead of spending hours scouring the internet for fragmented
+      information, you can take a breath of fresh air by joining today. '
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
