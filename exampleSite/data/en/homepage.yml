@@ -20,7 +20,7 @@ slider:
     animation_out: right
     button:
       enable: true
-      label: Sign Up
+      label: Sign Up!
       link: course/course-2/
   - title: 'NEW: Intro to Java with Processing'
     content: An introduction to Java for complete beginners, offering fun lessons
