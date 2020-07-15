@@ -72,7 +72,7 @@ course:
   enable: true
   title: Our Courses
 cta:
-  enable: true
+  enable: false
   subtitle: Try us out!
   title: Making Games In Processing
   button:
