@@ -68,7 +68,7 @@ about:
     link: about
 course:
   enable: true
-  title: Our Course
+  title: Our Courses
 cta:
   enable: true
   subtitle: Try us out!
