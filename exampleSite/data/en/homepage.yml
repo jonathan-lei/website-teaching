@@ -22,16 +22,15 @@ slider:
       enable: true
       label: Sign Up
       link: course/course-2/
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: 'NEW: Intro to Java with Processing'
+    content: An introduction to Java for complete beginners, offering fun lessons
+      involving using Processing for visual learning and making games.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
-      link: contact
+      label: Sign Up!
+      link: course/course-5/
 banner_feature:
   enable: true
   image: images/banner/banner-feature.png
