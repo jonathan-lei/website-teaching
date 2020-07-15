@@ -19,24 +19,67 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Join Today!"
-weight = 3
-[[menu.main]]
-URL = "course"
-name = "Courses"
-weight = 2
+[[menu.footer]]
+URL = "teacher"
+name = "teacher"
+[[menu.footer]]
+URL = "notice"
+name = "notice"
+[[menu.footer]]
+URL = "event"
+name = "event"
+[[menu.footer]]
+URL = "scholarship"
+name = "scholarship"
+[[menu.footer]]
+URL = "research"
+name = "research"
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 2
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 3
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
 [params]
-address = "[REPLACE ADDRESS]"
+address = "[REPLACE NUMBER]"
 author = "Jonathan Lei"
 contact_form_action = "#"
-description = "[REPLACE NAME] provides premium STEM classes for free. "
-email = "inquiry@[REPLACE NAME].com"
+description = "Grass Stem provides premium STEM classes for free. "
+email = "inquiry@grass-stem.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+[REPLACE NUMBER]"
