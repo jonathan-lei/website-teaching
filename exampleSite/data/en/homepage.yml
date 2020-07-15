@@ -91,16 +91,16 @@ event:
   enable: true
   title: Upcoming Events
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: TEACHERS
-    count: "60"
+    count: "3"
   - name: COURSES
-    count: "50"
+    count: "2"
   - name: STUDENTS
-    count: "1000"
+    count: "0"
   - name: SATISFIED CLIENT
     count: "1400"
 blog:
-  enable: true
+  enable: false
   title: Latest News
