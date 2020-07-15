@@ -6,10 +6,10 @@ description: An introduction to java for complete beginners, offering fun lesson
   involving using Processing for visual learning and making games.
 image: "/images/code.jpg"
 category: Programming
-teacher: Zim Cook
-duration: 06 Month
-weekly: 03 hours
-fee: 'From: $699'
+teacher: Steven Tan
+duration: 5 Days
+weekly: 10 Hours
+fee: Free!
 apply_url: "#"
 
 ---
