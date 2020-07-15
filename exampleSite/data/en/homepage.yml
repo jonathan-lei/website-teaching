@@ -48,10 +48,10 @@ banner_feature:
     content: 'Our instructors are among the top high school students in their schools.
       Our comprehensive vetting process ensures our teachers'' quality exceeds those
       of our competitors. '
-  - name: Sign Up
-    icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: No Cost
+    icon: ti-unlock
+    content: 'We are pleased to provide all of our classes free, allowing anyone in
+      the world access to amazing STEM classes! '
 about:
   enable: true
   title: About Educenter
