@@ -4,10 +4,8 @@ bg_image: images/backgrounds/page-title.jpg
 description: 'Jonathan Lei is an experienced web developer based in the Greater Boston
   Area. '
 image: images/teachers/teacher-1.jpg
-course: Photography
-bio: Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cumque accusamus tenetur
-  ea harum delectus ab consequatur excepturi, odit qui in quo quia voluptate nam optio,
-  culpa aspernatur. Error placeat iusto officia voluptas quae.
+course: Programming
+bio: Jonathan Lei is an experienced web developer based in the Greater Boston Area.
 interest:
 - Computer Networking
 - Computer Security
