@@ -17,9 +17,9 @@ bio: Jerry has competed in math competitions since fifth grade. He scored a perf
   the 2019 National Science Olympiad competition placing ninth. Jerry is currently
   a state officer on the science team.
 interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
+- Competitive Math
+- Problem Solving
+- Programming
 contact:
 - name: clarkmalik@email.com
   icon: ti-email
