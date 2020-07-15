@@ -4,13 +4,13 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Free STEM Classes
-    content: "[REPLACE NAME] specializes in providing free stem classes for all. Sign
-      up today with no risk! "
+    content: 'Grass Stem specializes in providing free STEM classes for all. Sign
+      up today and learn important skills! '
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Start Now
+      label: Sign Up
       link: contact
   - title: Your bright future is our mission
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
