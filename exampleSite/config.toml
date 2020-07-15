@@ -12,24 +12,18 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[menu.main]
-name = "Join Today!"
-weight = 4
-[[menu.footer]]
-URL = "teacher"
-name = "teacher"
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
-[[menu.footer]]
-URL = "research"
-name = "research"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "course"
+name = "Courses"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 address = "[REPLACE NUMBER]"
 author = "Jonathan Lei"
