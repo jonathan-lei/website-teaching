@@ -43,10 +43,11 @@ banner_feature:
     icon: ti-blackboard
     content: 'Learn via our engaging comprehensive online tools that make physical
       learning a thing of the past! '
-  - name: Our Achievements
+  - name: Best Instructors
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'Our instructors are among the top high school students in their schools.
+      Our comprehensive vetting process ensures our teachers'' quality exceeds those
+      of our competitors. '
   - name: Sign Up
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
