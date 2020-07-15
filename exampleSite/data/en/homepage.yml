@@ -39,10 +39,10 @@ banner_feature:
     content: 'We study hard, so you don''t need to. We have developed our own comprehensive
       curriculum, so instead of spending hours scouring the internet for fragmented
       information, you can take a breath of fresh air by joining today. '
-  - name: Our Notice Board
+  - name: Fully Virtual
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: 'Learn via our engaging comprehensive online tools that make physical
+      learning a thing of the past! '
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
