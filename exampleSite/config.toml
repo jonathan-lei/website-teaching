@@ -7,18 +7,18 @@ theme = "educenter-hugo"
 title = "Grass Stem | Free Premium Classes "
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2020 Grass Stem"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Grass Stem"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = "2"
+#[Languages.fr]
+#contentDir = "content/french"
+#copyright = "Copyright &copy; 2020 Grass Stem"
+#home = "Accueil"
+#languageCode = "fr-fr"
+#languageName = "Fr"
+#weight = "2"
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
