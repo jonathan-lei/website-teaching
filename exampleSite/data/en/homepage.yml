@@ -27,36 +27,10 @@ course:
   enable: true
   title: Our Courses
 cta:
-  enable: false
+  enable: true
   subtitle: Try us out!
   title: Making Games In Processing
   button:
     enable: true
     label: join now
     link: contact
-success_story:
-  enable: false
-  bg_image: images/backgrounds/success-story.jpg
-  title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-  video_link: ''
-event:
-  enable: false
-  title: Upcoming Events
-funfacts:
-  enable: false
-  funfact_item:
-  - name: TEACHERS
-    count: "3"
-  - name: COURSES
-    count: "2"
-  - name: STUDENTS
-    count: "0"
-  - name: SATISFIED CLIENT
-    count: "1400"
-blog:
-  enable: false
-  title: Latest News
