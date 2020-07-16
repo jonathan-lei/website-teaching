@@ -7,10 +7,10 @@
 {{ with $data.homepage.slider }}
 <section class="hero-section overlay bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
-    <div class="hero-slider">
+    <!--<div class="hero-slider">-->
       <!-- slider item -->
       {{ range .slider_item }}
-      <div class="hero-slider-item">
+      <!--<div class="hero-slider-item">-->
         <div class="row">
           <div class="col-md-8">
             <h1 class="text-white" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3"
@@ -20,8 +20,8 @@
             <a href="{{ .button.link | absLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
             {{ end }}
           </div>
-        </div>
-      </div>
+       <!-- </div>
+      </div>-->
       {{ end }}
     </div>
   </div>
