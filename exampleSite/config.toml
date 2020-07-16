@@ -83,7 +83,7 @@ link = "#"
 title = "instagram"
 [[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/jonathan-lei/website-teaching"
 title = "github"
 [[params.social]]
 icon = "ti-linkedin"
