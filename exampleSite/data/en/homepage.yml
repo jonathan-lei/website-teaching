@@ -31,48 +31,6 @@ slider:
       enable: true
       label: Sign Up!
       link: course/course-5/
-banner_feature:
-  enable: true
-  image: images/banner/banner-feature.png
-  feature_item:
-  - name: Unified Curriculum
-    icon: ti-book
-    content: 'We study hard, so you don''t need to. We have developed our own comprehensive
-      curriculum, so instead of spending hours scouring the internet for fragmented
-      information, you can take a breath of fresh air by joining today. '
-  - name: Fully Virtual
-    icon: ti-blackboard
-    content: 'Learn via our engaging comprehensive online tools that make physical
-      learning a thing of the past! '
-  - name: Best Instructors
-    icon: ti-agenda
-    content: 'Our instructors are among the top high school students in their schools.
-      Our comprehensive vetting process ensures our teachers'' quality exceeds those
-      of our competitors. '
-  - name: No Cost
-    icon: ti-unlock
-    content: 'We are pleased to provide all of our classes free, allowing anyone in
-      the world access to amazing STEM classes! '
-about:
-  enable: true
-  title: About Grass STEM
-  image: images/about/about-us.jpg
-  content: "Grass STEM consists of a group of high school students from the Acton-Boxborough
-    School District with a goal of spreading our passion for STEM fields to younger
-    generations. This summer, we are running a virtual week-long summer camp from
-    August 10-14, aimed at kids going into grades 4-8. The camp is completely free,
-    and no prior knowledge is required, as the camp is intended to be a chance for
-    kids to explore different, exciting fields of STEM. A typical camp day will be
-    split into several 1.5 hour blocks with a lunch break, and during each block an
-    instructor will teach and lead students in fun exploration activities about a
-    specific topic. Topics may include school and competition math, coding, science,
-    engineering, and robotics, depending on student interest. \n\ncupidatat non proident,
-    sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis
-    unde omnis iste natus error sit voluptatem "
-  button:
-    enable: true
-    label: Learn more
-    link: about
 course:
   enable: true
   title: Our Courses
