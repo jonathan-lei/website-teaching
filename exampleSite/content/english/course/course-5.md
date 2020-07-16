@@ -1,5 +1,5 @@
 ---
-title: Intro to Java with Processing
+title: Weeklong Virtual Camp
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: An introduction to java for complete beginners, offering fun lessons
