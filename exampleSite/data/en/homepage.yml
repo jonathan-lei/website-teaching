@@ -5,7 +5,7 @@ slider:
   slider_item:
   - title: Free STEM Camp
     content: 'A free STEM camp that covers math, computer science, and more. Sign up today!'
-#    animation_in: left
+    animation_in: left
 #    animation_out: right
     button:
       enable: true
