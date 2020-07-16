@@ -17,8 +17,8 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "course"
-name = "Courses"
+URL = "course/course-5"
+name = "Weeklong Camp"
 weight = 2
 [[menu.main]]
 URL = "about"
