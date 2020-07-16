@@ -9,7 +9,7 @@ slider:
       label: Sign Up
       link: contact
 about:
-  enable: false
+  enable: true
   title: About Grass STEM
   image: images/about/about-us.jpg
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -23,14 +23,14 @@ about:
     enable: true
     label: Learn more
     link: about
-course:
-  enable: true
-  title: Our Courses
-cta:
-  enable: true
-  subtitle: Try us out!
-  title: Making Games In Processing
-  button:
-    enable: true
-    label: join now
-    link: contact
+#course:
+#  enable: true
+#  title: Our Courses
+#cta:
+#  enable: true
+#  subtitle: Try us out!
+#  title: Making Games In Processing
+#  button:
+#    enable: true
+#    label: join now
+#    link: contact
