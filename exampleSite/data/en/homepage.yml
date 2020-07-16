@@ -1,21 +1,9 @@
 ---
 slider:
   enable: true
-  bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Free STEM Camp
     content: 'A free STEM camp that covers math, computer science, and more. Sign up today!'
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Sign Up
-      link: contact
-  slider_item:
-  - title: Free STEM Camp
-    content: 'A free STEM camp that covers math, computer science, and more. Sign up today!'
-    animation_in: left
-    animation_out: right
     button:
       enable: true
       label: Sign Up
