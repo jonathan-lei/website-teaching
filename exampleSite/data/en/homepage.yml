@@ -4,15 +4,24 @@ slider:
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: Free STEM Camp
-    content: 'A free STEM camp that covers math, cs, and more will be offered. Sign up today!'
-    #animation_in: left
-    #animation_out: right
+    content: 'A free STEM camp that covers math, computer science, and more. Sign up today!'
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Sign Up
+      link: contact
+  slider_item:
+  - title: Free STEM Camp
+    content: 'A free STEM camp that covers math, computer science, and more. Sign up today!'
+    animation_in: left
+    animation_out: right
     button:
       enable: true
       label: Sign Up
       link: contact
 about:
-  enable: true
+  enable: false
   title: About Grass STEM
   image: images/about/about-us.jpg
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -26,24 +35,40 @@ about:
     enable: true
     label: Learn more
     link: about
-#course:
-#  enable: true
-#  title: Our Courses
-#cta:
-#  enable: false
-#  subtitle: Try us out!
-#  title: Making Games In Processing
-#  button:
-#    enable: true
-#    label: join now
-#    link: contact
-#success_story:
-#  enable: false
-#  bg_image: images/backgrounds/success-story.jpg
-#  title: Success Stories
-#  content: |-
-#    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat. Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-#  video_link: ''
-#event:
-#  enable: false
-#  title: Upcoming Events
+course:
+  enable: true
+  title: Our Courses
+cta:
+  enable: false
+  subtitle: Try us out!
+  title: Making Games In Processing
+  button:
+    enable: true
+    label: join now
+    link: contact
+success_story:
+  enable: false
+  bg_image: images/backgrounds/success-story.jpg
+  title: Success Stories
+  content: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+
+    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  video_link: ''
+event:
+  enable: false
+  title: Upcoming Events
+funfacts:
+  enable: false
+  funfact_item:
+  - name: TEACHERS
+    count: "3"
+  - name: COURSES
+    count: "2"
+  - name: STUDENTS
+    count: "0"
+  - name: SATISFIED CLIENT
+    count: "1400"
+blog:
+  enable: false
+  title: Latest News
