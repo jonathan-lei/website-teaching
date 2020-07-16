@@ -31,43 +31,6 @@ slider:
       enable: true
       label: Sign Up!
       link: course/course-5/
-banner_feature:
-  enable: true
-  image: images/banner/banner-feature.png
-  feature_item:
-  - name: Unified Curriculum
-    icon: ti-book
-    content: 'We study hard, so you don''t need to. We have developed our own comprehensive
-      curriculum, so instead of spending hours scouring the internet for fragmented
-      information, you can take a breath of fresh air by joining today. '
-  - name: Fully Virtual
-    icon: ti-blackboard
-    content: 'Learn via our engaging comprehensive online tools that make physical
-      learning a thing of the past! '
-  - name: Best Instructors
-    icon: ti-agenda
-    content: 'Our instructors are among the top high school students in their schools.
-      Our comprehensive vetting process ensures our teachers'' quality exceeds those
-      of our competitors. '
-  - name: No Cost
-    icon: ti-unlock
-    content: 'We are pleased to provide all of our classes free, allowing anyone in
-      the world access to amazing STEM classes! '
-about:
-  enable: true
-  title: About Grass STEM
-  image: images/about/about-us.jpg
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
-    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
-    iste natus error sit voluptatem "
-  button:
-    enable: true
-    label: Learn more
-    link: about
 course:
   enable: true
   title: Our Courses
