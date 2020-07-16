@@ -3,34 +3,29 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Free STEM Classes
-    content: 'Grass Stem specializes in providing free STEM classes for all. Sign
-      up today and learn important skills! '
+  - title: Free STEM Camp
+    content: 'A free STEM camp that covers math, cs, and more will be offered. Sign up today!'
     animation_in: left
     animation_out: right
     button:
       enable: true
       label: Sign Up
       link: contact
-  - title: 'NEW: Pre-algebra/Intro Algebra'
-    content: Explore many fundamental concepts of mathematics, including work with
-      fractions, decimals, percents, exponents, square roots. Many problem-solving
-      skills and strategies will be introduced as well.
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Sign Up!
-      link: course/course-2/
-  - title: 'NEW: Intro to Java with Processing'
-    content: An introduction to Java for complete beginners, offering fun lessons
-      involving using Processing for visual learning and making games.
-    animation_in: left
-    animation_out: right
-    button:
-      enable: true
-      label: Sign Up!
-      link: course/course-5/
+about:
+  enable: true
+  title: About Grass STEM
+  image: images/about/about-us.jpg
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
+    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
+    iste natus error sit voluptatem"
+  button:
+    enable: true
+    label: Learn more
+    link: about
 course:
   enable: true
   title: Our Courses
