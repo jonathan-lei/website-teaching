@@ -5,7 +5,7 @@ bg_image: images/backgrounds/page-title.jpg
 description: An introduction to java for complete beginners, offering fun lessons
   involving using Processing for visual learning and making games.
 image: "/images/code.jpg"
-category: Programming
+category: Camp
 teacher: Steven Tan, Jerry Tan
 duration: 5 Days
 weekly: 10 Hours
