@@ -5,8 +5,8 @@ slider:
   slider_item:
   - title: Free STEM Camp
     content: A free 5-day STEM camp that covers math, computer science, and more,
-      for elementary and middle school students who have an interest for STEM. Sign
-      up today!
+      for elementary and middle school students who have an interest for STEM. The
+      camp will be run virtually from August 10-14. Sign up today!
     button:
       enable: true
       label: Sign Up
@@ -15,10 +15,10 @@ about:
   enable: true
   title: About Grass STEM
   image: images/about/math.jpg
-  content: |-
-    We are Grass STEM, a group of high school students from the Acton-Boxborough School District
-    with a goal of spreading our passion for STEM fields to younger generations. We offer free 
-    camps and courses covering math, computer science, and more.
+  content: "We are Grass STEM, a group of high school students from the Acton-Boxborough
+    School District\nwith a goal of spreading our passion for STEM fields to younger
+    generations. We offer free \ncamps and courses covering math, computer science,
+    and more."
   button:
     enable: true
     label: Learn more
