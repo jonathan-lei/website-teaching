@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg-image: images/code-background.jpg
+  bg_image: images/code-background.jpg
   slider_item:
   - title: Free STEM Camp
     content: 'A free 5-day STEM camp that covers math, computer science, and more, for elementary and middle school students who have an interest for STEM. Sign up today!'
