@@ -10,7 +10,7 @@ description: We are Grass STEM, a group of high school students from the Acton-B
 ---
 ## Meet the Staff
 
-            
+##                           
 
 ### Jerry Tan, Co-Founder and Math Instructor:
 
