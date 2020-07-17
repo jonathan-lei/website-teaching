@@ -25,11 +25,11 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = "[REPLACE NUMBER]"
+address = ""
 author = "Jonathan Lei"
 contact_form_action = "#"
 description = "Grass STEM provides premium STEM classes for free. "
-email = "inquiry@grass-stem.com"
+email = "grass4stem@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
 mobile = "+[REPLACE NUMBER]"
