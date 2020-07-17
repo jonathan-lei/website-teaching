@@ -10,7 +10,7 @@ slider:
     button:
       enable: true
       label: Sign Up
-      link: courses
+      link: course
 about:
   enable: true
   title: About Grass STEM
