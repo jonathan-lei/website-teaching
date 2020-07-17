@@ -12,6 +12,7 @@ duration: 5 Days
 weekly: 10 Hours
 fee: Free!
 apply_url: "#"
+draft: true
 
 ---
 ### Pre-algebra/Intro Algebra (with intro)
