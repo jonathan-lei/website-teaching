@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-bg_image: images/backgrounds/meadow.jpg
+bg_image: images/backgrounds/math.jpg
 description: 'Let''s get in touch! Contact us using the form below. '
 
 ---
