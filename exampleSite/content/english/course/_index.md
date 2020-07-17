@@ -1,7 +1,8 @@
 ---
-title: Our Camps & Courses
-bg_image: "/images/backgrounds/math.jpg"
-description: ''
-
+title: "Our Courses"
+draft: false
+# page title background image
+bg_image: "images/backgrounds/page-title.jpg"
+# meta description
+description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 ---
-Lorem ipsum dolor sit amet.
