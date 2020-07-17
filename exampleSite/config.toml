@@ -32,7 +32,7 @@ description = "Grass STEM provides premium STEM classes for free. "
 email = "grass4stem@gmail.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = ""
+mobile = "Need2Delete"
 top_header = true
 [params.map]
 enable = true
