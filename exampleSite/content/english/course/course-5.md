@@ -1,36 +1,39 @@
 ---
 title: Weeklong Virtual Camp
-date: 2019-07-06T15:27:17.000+06:00
-bg_image: images/backgrounds/page-title.jpg
-description: An introduction to java for complete beginners, offering fun lessons
-  involving using Processing for visual learning and making games.
+date: 2020-08-10T14:00:17+00:00
+bg_image: ''
+description: A fun weeklong virtual camp offering instruction on topics such as math,
+  computer science, and more.
 image: "/images/code.jpg"
 category: Camp
 teacher: Steven Tan, Jerry Tan
 duration: 5 Days
-weekly: 10 Hours
+weekly: 10-30 Hours
 fee: Free!
 apply_url: "#"
 
 ---
 ### Weeklong Camp
 
-We are offering free online courses in a week by week camp-like style. Each course is week-long and will have a class each day, Monday through Friday, for 1 to 1.5 hours. The following courses will be offered during Week 1 of the program.
-
-We are looking to expand our course selection for Weeks 2 and beyond. Some courses we are considering include: Intermediate/Advanced Java/Python, USACO training, Algorithms and Data Structures, AMC 8/MATHCOUNTS training, AMC 10 training, Algebra, Geometry, Biology, Chemistry, Science Olympiad/Science Team topics, and Engineering/Robotics. Please fill out this form so we can gauge interest.
+From August 10-14 we will be having a 5 day weeklong virtual camp for students in elementary and middle school teaching STEM topics such as computer science, math, and more. Each day will consist of 3 blocks of 2 hours each in which an instructor will teach a topic. Students may choose how many or how little blocks to attend to based on their interest and level.
 
 ### Time
 
-* 1:30 daily Monday through Friday for a week
+* 2-6 hours daily (depending on which blocks you choose to go to) Monday through Friday for a week
 
 ### Prerequisites
 
-* None!
+* Prerequisites will vary depending on which block
+* This camp is targeted for beginners so there will definitely be blocks with no prerequisites
+* Some blocks may also offer a bit more advanced topics that will require some prerequisites
+* Schedule and what will be offered at each block are soon to be determined
 
-### Course Description
+### Topics Covered
 
-An introduction to java for complete beginners, offering fun lessons involving using Processing for visual learning and making games.
+* Intro to Algebra, intro to Geometry, and MATHCOUNTS training will be offered for math
+* Introduction to python and game design will be offered for CS
+* More intermediate classes on basic algorithms and data structures will also be offered
 
-### Instructor: Steven Tan
+### CS Instructor: Steven Tan
 
 Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. He has experience with python libraries such as numpy, pandas, matplotlib, and has worked on many projects involving processing data.
