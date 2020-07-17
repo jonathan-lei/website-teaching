@@ -20,6 +20,8 @@ Jerry has competed in math competitions since fifth grade. He scored a perfect A
 
 ### Jonathan Lei, Co-Founder and Advisor:
 
+![](/images/teachers/teacher-1.jpg)
+
 Lorem ipsum sit amet. Jonathan Lei is a coding legend. He wins hackathons and makes big bucks with his companies.
 
 ### Steven Tan, Co-Founder and CS Instructor:
