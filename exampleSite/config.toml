@@ -27,7 +27,7 @@ weight = 1
 [params]
 address = ""
 author = "Jonathan Lei"
-contact_form_action = "#"
+contact_form_action = "grass4stem@gmail.com"
 description = "Grass STEM provides premium STEM classes for free. "
 email = "grass4stem@gmail.com"
 google_analitycs_id = ""
