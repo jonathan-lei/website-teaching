@@ -1,6 +1,6 @@
 ---
 title: About Us
-bg_image: images/backgrounds/page-title.jpg
+bg_image: images/backgrounds/math.jpg
 image: ''
 description: We are Grass STEM, a group of high school students from the Acton-Boxborough
   School District with a goal of spreading our passion for STEM fields to younger
@@ -18,4 +18,4 @@ Jonathan Lei, Co-Founder and Advisor:
 
 Steven Tan, Co-Founder and CS Instructor:
 
-Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. Futhermore, he has experience with python libraries such as numpy, pandas, and matplotlib, and has worked on many projects involving processing data. 
+Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. Futhermore, he has experience with python libraries such as numpy, pandas, and matplotlib, and has worked on many projects involving processing data.
