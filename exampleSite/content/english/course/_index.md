@@ -1,6 +1,6 @@
 ---
 title: Our Camps & Courses
-bg_image: images/backgrounds/meadow.jpg
+bg_image: "/images/backgrounds/math.jpg"
 description: ''
 
 ---
