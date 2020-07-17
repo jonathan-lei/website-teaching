@@ -24,4 +24,6 @@ Lorem ipsum sit amet. Jonathan Lei is a coding legend. He wins hackathons and ma
 
 ### Steven Tan, Co-Founder and CS Instructor:
 
+![](/images/teachers/steventan.jpg)
+
 Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. Futhermore, he has experience with python libraries such as numpy, pandas, and matplotlib, and has worked on many projects involving processing data.
