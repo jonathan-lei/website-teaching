@@ -4,7 +4,7 @@ disqusShortname = "educenter"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Grass STEM | Free Premium Classes "
+title = "Grass STEM | Free Premium Classes"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Grass Stem"
@@ -17,8 +17,8 @@ URL = "contact"
 name = "Contact"
 weight = 3
 [[menu.main]]
-URL = "course/course-5"
-name = "Weeklong Camp"
+URL = "course"
+name = "Courses/Camps"
 weight = 2
 [[menu.main]]
 URL = "about"
