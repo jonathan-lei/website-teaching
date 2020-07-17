@@ -4,34 +4,22 @@ slider:
   bg_image: images/code-background.jpg
   slider_item:
   - title: Free STEM Camp
-    content: 'A free 5-day STEM camp that covers math, computer science, and more, for elementary and middle school students who have an interest for STEM. Sign up today!'
+    content: A free 5-day STEM camp that covers math, computer science, and more,
+      for elementary and middle school students who have an interest for STEM. Sign
+      up today!
     button:
       enable: true
       label: Sign Up
-      link: contact
+      link: courses
 about:
   enable: true
   title: About Grass STEM
   image: images/about/math.jpg
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat  pariatur. Excepteur sint occaecat\n\ncupidatat non proident, sunt in culpa
-    qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis
-    iste natus error sit voluptatem"
+  content: |-
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+
+    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
   button:
     enable: true
     label: Learn more
     link: about
-#course:
-#  enable: true
-#  title: Our Courses
-#cta:
-#  enable: true
-#  subtitle: Try us out!
-#  title: Making Games In Processing
-#  button:
-#    enable: true
-#    label: join now
-#    link: contact
