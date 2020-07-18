@@ -1,6 +1,6 @@
 ---
-title: Weeklong Virtual Camp
-date: 2019-07-06T09:27:17Z
+title: Virtual Summer Camp
+date: '2019-07-06T09:27:17.000+00:00'
 bg_image: "/images/about/math.jpg"
 description: 'Grass STEM''s camp explores math, computer science, and other sciences
   for an immersive exploratory camp. '
