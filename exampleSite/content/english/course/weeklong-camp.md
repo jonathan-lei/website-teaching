@@ -8,7 +8,7 @@ image: "/images/about/STEM.jpg"
 category: Camp
 teacher: Steven Tan
 duration: 5 Days
-weekly: 10-30 Hours
+weakly: 10-30 Hours
 fee: Free!
 apply_url: "https://forms.gle/7FFLwB8QcXcSE6WN6"
 
