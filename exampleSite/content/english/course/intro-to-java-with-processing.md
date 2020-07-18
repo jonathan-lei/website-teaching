@@ -4,7 +4,6 @@ bg_image = "/images/code-background.jpg"
 category = "Programming"
 date = 2019-07-06T09:27:17Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-draft = true
 duration = "5 Days"
 fee = "Free!"
 image = "/images/code.jpg"
