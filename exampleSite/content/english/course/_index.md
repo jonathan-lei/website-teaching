@@ -1,8 +1,7 @@
 ---
-title: "Our Courses"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/math.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: Our Courses
+bg_image: images/backgrounds/math.jpg
+description: 'All Grass STEM courses utilize our comprehensive, structured curriculum
+  curated in-house to provide an engaging experience for all students. '
+
 ---
