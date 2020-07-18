@@ -19,6 +19,9 @@
             {{ if .button.enable }}
             <a href="{{ .button.link | absLangURL }}" class="btn btn-primary" data-animation-out="fadeOut{{.animation_out | title }}" data-delay-out="5" data-duration-in=".3" data-animation-in="fadeIn{{.animation_in | title }}" data-delay-in=".7">{{ .button.label }}</a>
             {{ end }}
+            <div align="center">
+              <i class="ti-angle-down" style="cursor: pointer" onclick="document.getElementById("about").scrollIntoView({behavior: "smooth", block: "end")"></i>
+            </div>
           </div>
        <!-- </div>
       </div>-->
@@ -60,7 +63,7 @@
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
-<section class="section">
+<section class="section" id="about">
   <div class="container">
     <div class="row align-items-center">
       <div class="col-md-6 order-2 order-md-1">
