@@ -1,6 +1,6 @@
 ---
 title: Weeklong Virtual Camp
-date: 2020-08-10T14:00:17+00:00
+date: 2020-08-10T14:00:17.000+00:00
 bg_image: ''
 description: A fun weeklong virtual camp offering instruction on topics such as math,
   computer science, and more.
