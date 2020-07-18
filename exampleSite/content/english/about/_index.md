@@ -2,15 +2,14 @@
 title: About Us
 bg_image: images/backgrounds/math.jpg
 image: ''
-description: We are Grass STEM, a group of high school students from the Acton-Boxborough
-  School District with a goal of spreading our passion for STEM fields to younger
-  generations. We offer free camps and courses covering math, computer science, and
-  more.
+description: We are Grass STEM, a group of high school students from Massachusetts
+  with a goal of spreading our passion for STEM fields to younger generations. We
+  offer free camps and courses covering math, computer science, and more.
 
 ---
 ## Meet the Staff
 
-##  
+## 
 
 ### Jerry Tan, Co-Founder and Math Instructor:
 
@@ -22,9 +21,9 @@ Jerry has competed in math competitions since fifth grade. He scored a perfect A
 
 ![](/images/teachers/teacher-1.jpg)
 
-Jonathan likes to see himself as a cool person who is passionate about programming. He does not want to be evaluated on his accomplishments (or lack thereof). 
+Jonathan likes to see himself as a cool person who is passionate about programming. He does not want to be evaluated on his accomplishments (or lack thereof).
 
-However, if you want to learn more about him, know that he loves working on personal projects. One of his projects is creating and hosting websites as well as hosting storage. His basement is filled with servers, and he has speedy business internet. If all content hosted were a single website, it would be ranked in the top 100 American websites based on monthly traffic. Earlier this year, Jonathan led a team to organize Hack3, an online hackathon attended by 275 participants from over 20 countries with judges/mentors/teachers from Stanford University, Harvard University, Amazon Web Services, Wikipedia, and more. Speaking of hackathons, Jonathan holds the title as grand prize winner at Metrohacks, New England’s largest hackathon for high school students. In addition, he has been featured on national television. 
+However, if you want to learn more about him, know that he loves working on personal projects. One of his projects is creating and hosting websites as well as hosting storage. His basement is filled with servers, and he has speedy business internet. If all content hosted were a single website, it would be ranked in the top 100 American websites based on monthly traffic. Earlier this year, Jonathan led a team to organize Hack3, an online hackathon attended by 275 participants from over 20 countries with judges/mentors/teachers from Stanford University, Harvard University, Amazon Web Services, Wikipedia, and more. Speaking of hackathons, Jonathan holds the title as grand prize winner at Metrohacks, New England’s largest hackathon for high school students. In addition, he has been featured on national television.
 
 ### Steven Tan, Co-Founder and CS Instructor:
 
