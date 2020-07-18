@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
 image: "/images/about/STEM.jpg"
-category: Photography
+category: Camp
 teacher: Steven Tan
 duration: 5 Days
 weekly: 30 Hours
