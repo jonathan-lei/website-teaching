@@ -10,7 +10,9 @@
         {{ with .Params.Image }}
         <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
         {{ end }}
-        {{ .Content }}
+        <div align="center">
+          {{ .Content }}
+        </div>
       </div>
     </div>
   </div>
