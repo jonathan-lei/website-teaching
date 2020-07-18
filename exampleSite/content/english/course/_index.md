@@ -5,4 +5,3 @@ description: 'All Grass STEM courses utilize our comprehensive, structured curri
   curated in-house to provide an engaging experience for all students. '
 
 ---
-More courses are coming soon!
