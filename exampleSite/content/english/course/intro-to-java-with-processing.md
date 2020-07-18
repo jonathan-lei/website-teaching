@@ -4,6 +4,7 @@ bg_image = "/images/code-background.jpg"
 category = "Programming"
 date = 2019-07-06T09:27:17Z
 description = "Join this course to learn to create fun games and learn the fundamentals of computer science. "
+draft = true
 duration = "5 Days"
 fee = "Free!"
 image = "/images/code.jpg"
@@ -27,4 +28,4 @@ An introduction to Java for complete beginners, offering fun lessons involving u
 
 ### Cost: Free
 
-Grass STEM is pleased to provide this class for free! However, we highly recommend donations to enable us to expand. All excess profits will be donated to charity. 
+Grass STEM is pleased to provide this class for free! However, we highly recommend donations to enable us to expand. All excess profits will be donated to charity.
