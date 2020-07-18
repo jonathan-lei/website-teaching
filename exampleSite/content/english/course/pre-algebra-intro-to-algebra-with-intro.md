@@ -7,7 +7,7 @@ description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 duration = "5 Days"
 fee = "Free!"
 image = "/images/about/math.jpg"
-teacher = "Steven Tan"
+teacher = "Jerry Tan"
 title = "Pre-Algebra/Intro to Algebra (with intro)"
 weekly = "10 Hours"
 
