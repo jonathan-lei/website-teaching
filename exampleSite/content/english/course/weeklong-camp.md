@@ -6,7 +6,7 @@ description: 'Grass STEM''s camp, running from August 10-14, explores math, comp
   science, and other sciences for an immersive exploratory camp. '
 image: "/images/about/STEM.jpg"
 category: Camp
-teacher:#
+teacher: none
 duration: 5 Days, 8/10-8/14
 weekly: 10-30 Hours
 fee: Free!
