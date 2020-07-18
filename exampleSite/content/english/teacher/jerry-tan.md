@@ -8,31 +8,8 @@ interest = ["Science", "Competitions", "Math"]
 title = "Jerry Tan"
 [[contact]]
 icon = "ti-email"
-link = "mailto:clarkmalik@email.com"
-name = "clarkmalik@email.com"
-[[contact]]
-icon = "ti-mobile"
-link = "tel:+120345876"
-name = "+12 034 5876"
-[[contact]]
-icon = "ti-facebook"
-link = "#"
-name = "Clark Malik"
-[[contact]]
-icon = "ti-twitter-alt"
-link = "#"
-name = "Clark Malik"
-[[contact]]
-icon = "ti-skype"
-link = "#"
-name = "Clark Malik"
-[[contact]]
-icon = "ti-world"
-link = "#"
-name = "clarkmalik.com"
-[[contact]]
-icon = "ti-location-pin"
-link = "#"
-name = "1313 Boulevard Cremazie,Quebec"
+link = "mailto:jerryt.4444go@gmail.com"
+name = "jerryt.4444go@gmail.com"
+
 
 +++
