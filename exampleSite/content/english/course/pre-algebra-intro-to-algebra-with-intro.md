@@ -4,6 +4,7 @@ bg_image = "/images/backgrounds/math.jpg"
 category = "Math"
 date = 2019-07-06T09:27:17Z
 description = "Join this course to learn more about the fundamentals of math."
+draft = true
 duration = "5 Days"
 fee = "Free!"
 image = "/images/about/math.jpg"
