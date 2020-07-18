@@ -1,16 +1,16 @@
 +++
 apply_url = "#"
-bg_image = "/images/about/math.jpg"
-category = "Camp"
+bg_image = "/images/code-background.jpg"
+category = "Programming"
 date = 2019-07-06T09:27:17Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 draft = true
 duration = "5 Days"
 fee = "Free!"
-image = "/images/about/STEM.jpg"
+image = "/images/code.jpg"
 teacher = "Steven Tan"
 title = "Intro to Java with Processing"
-weekly = "30 Hours"
+weekly = "10 Hours"
 
 +++
 ### About Course
