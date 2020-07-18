@@ -7,8 +7,8 @@ description: 'Grass STEM''s camp, running from August 10-14, explores math, comp
 image: "/images/about/STEM.jpg"
 category: Camp
 teacher: Steven Tan
-duration: 5 Days
-weakly: 10-30 Hours
+duration: 5 Days, 8/10-8/14
+weekly: 10-30 Hours
 fee: Free!
 apply_url: "https://forms.gle/7FFLwB8QcXcSE6WN6"
 
