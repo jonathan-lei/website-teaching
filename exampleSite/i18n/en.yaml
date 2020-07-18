@@ -28,6 +28,9 @@
 - id: tags
   translation: Tags
 
+- id: sign_up
+  translation: Sign Up
+
 - id: see_all
   translation: See all
 
