@@ -9,7 +9,7 @@ slider:
       camp will be run virtually from August 10-14. Sign up today!
     button:
       enable: true
-      label: Sign Up
+      label: Read More
       link: course
 about:
   enable: true
