@@ -11,6 +11,7 @@ duration: 5 Days
 weekly: 10-30 Hours
 fee: Free!
 apply_url: "#"
+draft: true
 
 ---
 ### Weeklong Camp
