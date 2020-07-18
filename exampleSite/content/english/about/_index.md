@@ -29,4 +29,4 @@ However, if you want to learn more about him, know that he loves working on pers
 
 ![](/images/teachers/steventan.jpg)
 
-Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. Futhermore, he has experience with python libraries such as numpy, pandas, and matplotlib, and has worked on many projects involving processing data.
+Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high school which was ranked among the top schools for the competition. He also has had past experience teaching robotics at a local computer science academy, KTByte, and also led software for a FTC Robotics Team. 
