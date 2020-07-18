@@ -16,16 +16,16 @@ apply_url: "#"
 ---
 ### Overview
 
-An introduction to Java for complete beginners, offering fun lessons involving using Processing for visual learning and making games.
+We are pleased to host a camp! Students will attend all of our classes rather than a single one, including [Intro to Java with Processing](/course/intro-to-java-with-processing/) and [Pre-Algebra/Intro to Algebra](/course/pre-algebra-intro-to-algebra-with-intro/) with breaks inbetween for a full and engaging STEM camp experience. 
 
 ### Prerequisites
 
-* Students should be familiar with basic arithmetic (addition, subtraction, multiplication, division)
+* Students should be eligible for each of the two classes: [Intro to Java with Processing](/course/intro-to-java-with-processing/) and [Pre-Algebra/Intro to Algebra](/course/pre-algebra-intro-to-algebra-with-intro/)
 
 ### Time Commitment
 
-* Daily two-hour class for five days
-* Hour homework
+* Six hours per day for a week
+* Two hours of homework per day for a week
 
 ### Cost: Free
 
