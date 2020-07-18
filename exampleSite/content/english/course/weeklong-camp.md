@@ -1,30 +1,30 @@
 ---
-title: Weeklong Camp
-date: 2019-07-06T15:27:17.000+06:00
+title: Weeklong Virtual Camp
+date: 2020-08-10T14:00:17+00:00
 bg_image: "/images/about/math.jpg"
-description: 'Grass STEM''s camp explores all facets of STEM for an immersive exploratory
-  camp. '
+description: 'Grass STEM''s camp explores math, computer science, and other sciences
+  for an immersive exploratory camp. '
 image: "/images/about/STEM.jpg"
 category: Camp
 teacher: Steven Tan
 duration: 5 Days
-weekly: 30 Hours
+weekly: 10-30 Hours
 fee: Free!
 apply_url: "#"
 
 ---
 ### Overview
 
-We are pleased to host a camp! Students will attend all of our classes rather than a single one, including [Intro to Java with Processing](/course/intro-to-java-with-processing/) and [Pre-Algebra/Intro to Algebra](/course/pre-algebra-intro-to-algebra-with-intro/) with breaks inbetween for a full and engaging STEM camp experience. 
+We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from August 10-14. The camp offers instruction on 3 topics: Programming with Python, Introduction to Algebra, and General Sciences. Each day of the camp will have three 2 hour blocks, where each block is dedicated to one of the topics. Python will be offered every day from 10am-12pm, Algebra will be offered from 1pm-3pm, and General Sciences will be offered 4pm-6pm. Each topic will meet 5 times, a block every day.
 
 ### Prerequisites
 
-* Students should be eligible for each of the two classes: [Intro to Java with Processing](/course/intro-to-java-with-processing/) and [Pre-Algebra/Intro to Algebra](/course/pre-algebra-intro-to-algebra-with-intro/)
+* There are no prerequisites for Python and General Sciences, but basic arithmetic will be needed for Algebra.
 
 ### Time Commitment
 
-* Six hours per day for a week
-* Two hours of homework per day for a week
+* 2-6 hours per day for a week (depending on which blocks one wishes to attend)
+* Students may attend however many or little blocks to attend. However, it is suggested that they at least attend all 5 blocks of one topic.
 
 ### Cost: Free
 
