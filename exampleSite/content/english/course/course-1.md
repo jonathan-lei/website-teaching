@@ -6,7 +6,7 @@ description: A fun weeklong virtual camp offering instruction on topics such as 
   computer science, and more.
 image: "/images/code.jpg"
 category: Camp
-teacher: Steven Tan, Jerry Tan
+teacher: Steven Tan
 duration: 5 Days
 weekly: 10-30 Hours
 fee: Free!
@@ -34,6 +34,6 @@ From August 10-14 we will be having a 5 day weeklong virtual camp for students i
 * Introduction to python and game design will be offered for CS
 * More intermediate classes on basic algorithms and data structures will also be offered
 
-### CS Instructor: Steven Tan
+### Instructor: Steven Tan
 
 Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high-school’s computer science club. He has experience with python libraries such as numpy, pandas, matplotlib, and has worked on many projects involving processing data.
