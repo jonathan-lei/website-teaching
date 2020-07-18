@@ -2,9 +2,8 @@
 title: Weeklong Camp
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: "/images/about/math.jpg"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
+description: 'Grass STEM''s camp explores all facets of STEM for an immersive exploratory
+  camp. '
 image: "/images/about/STEM.jpg"
 category: Camp
 teacher: Steven Tan
