@@ -24,7 +24,7 @@ We are pleased to host a virtual camp! The camp will be hosted Monday-Friday fro
 ### Time Commitment
 
 * 2-6 hours per day for a week (depending on which blocks one wishes to attend)
-* Students may attend however many or little blocks to attend. However, it is suggested that they at least attend all 5 blocks of one topic.
+* We recommend students to "shop around" the first day, attending all the blocks. For the rest of the week, students may choose to attend as many or as few blocks based on their interest. They should attend at least one block per day.
 
 ### Cost: Free
 
