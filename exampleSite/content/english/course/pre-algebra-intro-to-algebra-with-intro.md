@@ -1,7 +1,7 @@
 +++
 apply_url = "#"
 bg_image = "/images/backgrounds/math.jpg"
-category = "Programming"
+category = "Math"
 date = 2019-07-06T09:27:17Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 duration = "5 Days"
