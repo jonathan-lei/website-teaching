@@ -12,7 +12,7 @@ title = "Pre-Algebra/Intro to Algebra (with intro)"
 weekly = "10 Hours"
 
 +++
-### About Course
+### Overview
 
 This course explores many fundamental concepts of mathematics, including work with fractions, decimals, percents, exponents, square roots. Many problem-solving skills and strategies will be introduced as well.
 
@@ -27,4 +27,4 @@ This course explores many fundamental concepts of mathematics, including work wi
 
 ### Cost: Free
 
-Grass STEM is pleased to provide this class for free! However, we highly recommend donations to enable us to expand. All excess profits will be donated to charity. 
+Grass STEM is pleased to provide this class for free! However, we highly recommend donations to enable us to expand. All excess profits will be donated to charity.
