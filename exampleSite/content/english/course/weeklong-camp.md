@@ -15,7 +15,7 @@ apply_url: "#"
 ---
 ### Overview
 
-We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp offers instruction on 3 topics: Programming with Python, Introduction to Algebra, and General Sciences. Each day of the camp will have three 2 hour blocks, where each block is dedicated to one of the topics. Python will be offered every day from 10am-12pm, Algebra will be offered from 1pm-3pm, and General Sciences will be offered 4pm-6pm. Each topic will meet 5 times, a block every day.
+We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. Each day of the camp will be split into several 1.5-2 hour blocks, where each block is dedicated to a specific topic. Topics will be based on student interest, which will be gauged by the sign-up form above. Possible topics include math, computer science, general sciences, robotics/engineering, an more. Students are encouraged to attend all the blocks in any given day, however students may choose to attend fewer.
 
 ### Prerequisites
 
