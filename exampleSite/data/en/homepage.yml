@@ -15,10 +15,10 @@ about:
   enable: true
   title: About Grass STEM
   image: images/about/STEM.jpg
-  content: "We are Grass STEM, a group of high school students from the Acton-Boxborough
-    School District\ndedicated to spreading our passion for STEM fields to younger
-    generations. We offer free \ncamps and courses covering math, computer science,
-    and more.\n\nTo learn more about who we are, visit our About page."
+  content: |-
+    We are Grass STEM, a group of high school students from Massachusetts dedicated to spreading our passion for STEM fields to younger generations. We offer free camps and courses covering science, math, computer science, and more.
+
+    To learn more about who we are, visit our About page.
   button:
     enable: true
     label: Learn more
