@@ -6,7 +6,7 @@ description: 'Grass STEM''s camp, running from August 10-14, explores math, comp
   science, and other sciences for an immersive exploratory camp. '
 image: "/images/about/STEM.jpg"
 category: Camp
-<!--teacher: Steven Tan -->
+teacher:#
 duration: 5 Days, 8/10-8/14
 weekly: 10-30 Hours
 fee: Free!
@@ -30,6 +30,3 @@ We are pleased to host a virtual camp! The camp will be hosted Monday-Friday fro
 
 Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
 
-### Instructors
-
-Instructors for this camp include Steven Tan, Jerry Tan, and Alex Wang.
