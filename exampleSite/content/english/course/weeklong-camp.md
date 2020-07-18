@@ -19,7 +19,7 @@ We are pleased to host a virtual camp! The camp will be hosted Monday-Friday fro
 
 ### Prerequisites
 
-* There are no prerequisites for Python and General Sciences, but basic arithmetic will be needed for Algebra.
+* There are no prerequisites for this camp! This camp is meant to be an entry-level exploratory experience.
 
 ### Time Commitment
 
@@ -28,4 +28,4 @@ We are pleased to host a virtual camp! The camp will be hosted Monday-Friday fro
 
 ### Cost: Free
 
-Grass STEM is pleased to provide this class for free! However, we highly recommend donations to enable us to expand. All excess profits will be donated to charity.
+Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
