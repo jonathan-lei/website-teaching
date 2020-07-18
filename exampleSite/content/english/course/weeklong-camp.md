@@ -4,7 +4,7 @@ date: '2019-07-06T09:27:17.000+00:00'
 bg_image: "/images/about/math.jpg"
 description: 'Grass STEM''s camp, running from August 10-14, explores math, computer
   science, and other sciences for an immersive exploratory camp. '
-image: "/images/about/STEM.jpg"
+image: "/images/about/math.jpg"
 category: Camp
 teacher: Steven Tan
 duration: 5 Days, 8/10-8/14
