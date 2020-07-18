@@ -12,7 +12,7 @@ title = "Intro to Java with Processing"
 weekly = "10 Hours"
 
 +++
-### About Course
+### Overview
 
 An introduction to Java for complete beginners, offering fun lessons involving using Processing for visual learning and making games.
 
