@@ -15,7 +15,7 @@ description: We are Grass STEM, a group of high school students from Massachuset
 
 ![](/images/teachers/jerrytan.jpg)
 
-Jerry has competed in math competitions since fifth grade. He scored a perfect AMC 8 in seventh grade, and helped his middle school place first place team at MATHCOUNTS States. Jerry is a four-time AIME qualifier as well as a two-time USAJMO qualifier (USA Junior Mathematical Olympiad), and this year has received an USAJMO Honorable Mention Award (Top 30 Nationally). Jerry is currently in the MIT PRIMES program, a math research program for high schoolers. In the past, Jerry has experience tutoring competition math as well as school math at ACLS and through ABMC’s tutoring program during the pandemic. Jerry is also on his high school science team, which went to the 2019 National Science Olympiad competition placing ninth. Jerry is currently a state officer on the science team.
+Jerry has competed in math competitions since fifth grade. His middle school team placed first at MATHCOUNTS States. Jerry is a two-time USAJMO qualifier (USA Junior Mathematical Olympiad), and this year has received an USAJMO Honorable Mention Award (Top 30 Nationally). Jerry is also on his high school science team, which went to the 2019 National Science Olympiad competition placing ninth. He also has received many medals at the invitational competitions, and is currently a state officer on the team. Jerry is currently in the MIT PRIMES program, a math research program for high schoolers, where he is currently learning college-level math. In the past, Jerry has experience tutoring competition math through ABMC’s tutoring program during the pandemic, and has also taught at ACLS. 
 
 ### Jonathan Lei, Co-Founder and Advisor:
 
@@ -29,4 +29,4 @@ However, if you want to learn more about him, know that he loves working on pers
 
 ![](/images/teachers/steventan.jpg)
 
-Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high school which was ranked among the top schools for the competition. He also has had past experience teaching robotics at a local computer science academy, KTByte, and also led software for a FTC Robotics Team. 
+Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high school which was ranked among the top schools for the competition. He also has had past experience teaching robotics at a local computer science academy, KTByte, and also led software for a FTC Robotics Team.
