@@ -9,8 +9,8 @@ slider:
       camp will be run virtually from August 10-14. Sign up today!
     button:
       enable: true
-      label: Learn More
-      link: course
+      label: Sign Up
+      link: course/weeklong-camp/
 about:
   enable: true
   title: About Grass STEM
