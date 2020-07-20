@@ -6,6 +6,6 @@ description: 'All Grass STEM courses utilize our comprehensive, structured curri
 
 ---
 
-## Ur Pepegaalul
+## Ur Pepegaal
 hehehehehe the quick red fox jumps over the brown fence. Lorem ipsum
 dollars
