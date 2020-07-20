@@ -15,7 +15,7 @@ apply_url: https://docs.google.com/forms/d/e/1FAIpQLSd3JAa5fhDaej2RbjqIPqR38lX88
 ---
 ### Overview
 
-We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp will be run virtually via Zoom. We will run four different classes, each meeting at a specific time every day. Each class will be 1.5 hours long, with a **15 minute break** in the middle. There will also be a **30 minute break** between consecutive classes. Students are encouraged to attend all the classes in any given day, however students may choose to attend fewer.
+We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp will be run virtually via Zoom. We will run four different classes, each meeting at a specific time every day. Each class will be 1.5 hours long, with a **10-15 minute break** in the middle. There will also be a **30 minute break** between consecutive classes. Students are encouraged to attend all the classes in any given day, however students may choose to attend fewer.
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ There are no prerequisites for this camp! This camp is meant to be an entry-leve
 
 ### Schedule
 
-The daily schedule is as follows:
+The daily schedule is as follows (Note that each 1.5 hour class will have a 10-15 minute break in the middle of it) :
 
 * 9:00 am - 10:30 am : Class 1
 * 11:00 am - 12:30 pm : Class 2
