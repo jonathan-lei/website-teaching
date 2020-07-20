@@ -23,7 +23,7 @@ about:
     enable: true
     label: Learn more
     link: about
-about:
+blog:
   enable: true
   title: About Pepega
   image: images/about/STEM.jpg
