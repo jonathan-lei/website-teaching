@@ -14,8 +14,29 @@
     </div>
     <!-- /course list -->
   </div>
+  
 </section>
 <!-- /courses -->
+
+<!-- Coming Soon -->
+<section class="section">
+<div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 class="section-title">{{ i18n "Courses" }}</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-5 content">
+        {{ .Content }}
+       <!-- <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a> -->
+        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
+        <p>{{ site.Params.address | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Coming Soon -->
 
 
 {{ end }}
