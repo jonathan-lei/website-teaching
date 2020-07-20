@@ -1,6 +1,6 @@
 ---
 title: Virtual Summer Camp
-date: 2019-07-06T09:27:17+00:00
+date: 2019-07-06T09:27:17.000+00:00
 bg_image: "/images/about/math.jpg"
 description: 'Grass STEM''s camp, running from August 10-14, explores math, computer
   science, and other sciences for an immersive exploratory camp. '
@@ -15,13 +15,21 @@ apply_url: https://docs.google.com/forms/d/e/1FAIpQLSd3JAa5fhDaej2RbjqIPqR38lX88
 ---
 ### Overview
 
-We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp will be run virtually via Zoom. We will run four different classes, each meeting at a specific time every day. Each class will be 1.5 hours long, with a **15 minute break** in the middle. Students are encouraged to attend all the classes in any given day, however students may choose to attend fewer.
+We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp will be run virtually via Zoom. We will run four different classes, each meeting at a specific time every day. Each class will be 1.5 hours long, with a **15 minute break** in the middle. There will also be a **30 minute break** between consecutive classes. Students are encouraged to attend all the classes in any given day, however students may choose to attend fewer.
 
 ### Prerequisites
 
 There are no prerequisites for this camp! This camp is meant to be an entry-level exploratory experience.
 
 ### Schedule
+
+The daily schedule is as follows:
+
+* 9:00 am - 10:30 am : Class 1
+* 11:00 am - 12:30 pm : Class 2
+* 12:30pm - 1:30 pm : Lunch Break
+* 1:30 pm - 3:00 pm : Class 3
+* 3:30 pm - 5:00 pm : Mathematical Problem Solving and Puzzles
 
 ### Time Commitment
 
