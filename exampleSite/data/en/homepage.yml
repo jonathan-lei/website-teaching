@@ -26,8 +26,4 @@ about:
 blog:
   enable: true
   title: About Pepega
-  image: images/about/STEM.jpg
-  content: |-
-    We are Grass STEM, a group of high school students from Massachusetts dedicated to spreading our passion for STEM fields to younger generations. We offer free camps and courses covering science, math, computer science, and more.
-
-    To learn more about who we are, visit our About page.
+  post: We are you.
