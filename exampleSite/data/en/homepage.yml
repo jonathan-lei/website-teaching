@@ -23,8 +23,3 @@ about:
     enable: true
     label: Learn more
     link: about
-event:
-  enable: true
-  title: About Pepega
-  event: We are you.
-  content: your bad
