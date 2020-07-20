@@ -5,7 +5,3 @@ description: 'All Grass STEM courses utilize our comprehensive, structured curri
   curated in-house to provide an engaging experience for all students. '
 
 ---
-
-## Ur Pepega No u is bad
-hehehehehe the quick red fox jumps over the brown fence. Lorem ipsum
-dollars
