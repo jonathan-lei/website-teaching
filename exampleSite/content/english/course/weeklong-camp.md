@@ -25,7 +25,7 @@ There are no prerequisites for this camp! This camp is meant to be an entry-leve
 
 The daily schedule is as follows (Note that each 1.5 hour class will have a 10-15 minute break in the middle of it) :
 
-* 10:00 am - 11:30 am: Intro to Programming & Game Design
+* 10:00 am - 11:30 am: Intro to Python with Game Design
 * 12:00pm - 1:30 pm : Lunch Break
 * 1:30 pm - 3:00 pm : Scientific Experiments and Discoveries
 * 3:30 pm - 5:00 pm : Mathematical Problem Solving and Puzzles
