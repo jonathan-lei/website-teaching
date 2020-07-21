@@ -13,6 +13,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.main]]
+URL = "https://www.facebook.com/Grass-STEM-105652047901110"
+name = "Facebook"
+weight = "4"
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
