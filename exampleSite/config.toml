@@ -71,7 +71,7 @@ mailchimp_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSeGSUgrQdmBsxu
 mailchimp_form_name = ""
 [[params.social]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/grass.stem.9"
+link = "https://www.facebook.com/Grass-STEM-105652047901110"
 title = "facebook"
 [[params.social]]
 icon = "ti-github"
