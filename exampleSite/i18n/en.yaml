@@ -59,7 +59,7 @@
   translation: weekly
 
 - id: fee
-  translation: fee
+  translation: cost
 
 - id: teacher
   translation: Teacher
