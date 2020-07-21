@@ -38,3 +38,7 @@ The daily schedule is as follows (Note that each 1.5 hour class will have a 10-1
 ### Cost: Free
 
 Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
+
+### Teachers: Jerry Tan and Steven Tan
+
+Jerry and Steven will be leading this camp. Learn more about them [here](https://grass-stem.com/about/). 
