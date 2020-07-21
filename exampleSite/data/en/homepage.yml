@@ -11,15 +11,6 @@ slider:
       enable: true
       label: Sign Up
       link: course/weeklong-camp/
-
-cta:
-  enable : true
-  subtitle : "Registration Open! Sign up today!"
-  title : "Virtual Summer Camp - August 10-14"
-  button:
-    enable : true
-    label : "Sign Up"
-    link : "course/weeklong-camp/"
     
 about:
   enable: true
@@ -34,3 +25,16 @@ about:
     label: Learn more
     link: about
 
+cta:
+  enable : true
+  subtitle : "Registration Open! Sign up today!"
+  title : "Virtual Summer Camp - August 10-14"
+  button:
+    enable : true
+    label : "Sign Up"
+    link : "course/weeklong-camp/"
+    
+course:
+  enable : true
+  title : "Our Courses/Camps"
+  # course item comes from "content/**/course" folder.
