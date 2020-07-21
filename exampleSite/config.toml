@@ -67,8 +67,8 @@ enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://docs.google.com/forms/d/e/1FAIpQLSeGSUgrQdmBsxu7ye4atxcbvuHe4QCkWGlCy40UxpkAkJA0jQ/viewform"
+mailchimp_form_name = "entry.1807380811"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/grass.stem.9"
