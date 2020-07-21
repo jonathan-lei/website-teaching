@@ -5,38 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Blog Post
-- type: directory
-  path: exampleSite/content/english/blog
-  label: Post (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
-- type: heading
-  label: Author
-- type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: heading
   label: Course
 - type: directory
   path: exampleSite/content/english/course
@@ -52,22 +20,6 @@ sections:
   match: "**/*"
   templates:
   - course
-- type: heading
-  label: Notice
-- type: directory
-  path: exampleSite/content/english/notice
-  label: Notice (en)
-  create: all
-  match: "**/*"
-  templates:
-  - notice
-- type: directory
-  path: exampleSite/content/french/notice
-  label: Notice (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - notice
 - type: heading
   label: Teacher
 - type: directory
@@ -116,22 +68,6 @@ sections:
   match: "**/*"
   templates:
   - research
-- type: heading
-  label: Scholarship
-- type: directory
-  path: exampleSite/content/english/scholarship
-  label: Scholarship (en)
-  create: all
-  match: "**/*"
-  templates:
-  - scholarship
-- type: directory
-  path: exampleSite/content/french/scholarship
-  label: Scholarship (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - scholarship
 - type: heading
   label: Others Pages
 - type: directory
