@@ -18,7 +18,7 @@ description: We are Grass STEM, a group of high school students with a variety o
 
 ![](/images/teachers/jerrytan.jpg)
 
-Jerry has competed in math competitions since fifth grade. His middle school team placed first at MATHCOUNTS States. Jerry is a two-time USAJMO qualifier (USA Junior Mathematical Olympiad), and this year has received an USAJMO Honorable Mention Award (Top 30 Nationally). Jerry is also on his high school science team, which went to the 2019 National Science Olympiad competition placing ninth. He also has received many medals at the invitational competitions, and is currently a state officer on the team. Jerry is currently in the MIT PRIMES program, a math research program for high schoolers, where he is currently learning college-level math. In the past, Jerry has experience tutoring competition math through ABMC’s tutoring program during the pandemic, and has also taught at ACLS. 
+Jerry has competed in math competitions since fifth grade. His middle school team placed first at MATHCOUNTS States. Jerry is a two-time USAJMO qualifier (USA Junior Mathematical Olympiad), and this year has received an USAJMO Honorable Mention Award (Top 30 Nationally). Jerry is also on his high school science team, which went to the 2019 National Science Olympiad competition placing ninth. He also has received many medals at the invitational competitions, and is currently a state officer on the team. Jerry is currently in the MIT PRIMES program, a math research program for high schoolers, where he is currently learning college-level math. In the past, Jerry has experience tutoring competition math through ABMC’s tutoring program during the pandemic, and has also taught at ACLS.
 
 ### Jonathan Lei, Co-Founder and Advisor:
 
@@ -33,3 +33,7 @@ However, if you want to learn more about him, know that he loves working on pers
 ![](/images/teachers/steventan.jpg)
 
 Steven has been programming since 6th grade, and has experience in both java and python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high school which was ranked among the top schools for the competition. He also has had past experience teaching robotics at a local computer science academy, KTByte, and also led software for a FTC Robotics Team.
+
+### Alex Wang, Instructor
+
+Alex has a passion for biology and chemistry, most likely influenced by his parents’ work in the pharmaceutical industry. His interest began in 5th grade, where he far surpassed his teacher’s expectations in a chemistry report. Alex is currently a member of his high school science team and has participated in several competitions. Alex has also designed and performed various experiments in his spare time. He was offered a position for a summer internship in AstraZeneca. Alex has teaching experience from ACLS and enjoys helping his peers in science courses.
