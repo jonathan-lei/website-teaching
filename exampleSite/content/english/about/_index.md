@@ -10,7 +10,7 @@ description: We are Grass STEM, a group of high school students with a variety o
   we accomplish through our free courses and camps.
 
 ---
-## Meet the Staff
+## About the Staff
 
 ## 
 
