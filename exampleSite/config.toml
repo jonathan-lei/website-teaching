@@ -7,7 +7,7 @@ theme = "educenter-hugo"
 title = "Grass STEM | Free Premium Classes"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Grass Stem, Proudly Managed by "
+copyright = "Copyright &copy; 2020 Grass Stem, Proudly Managed by&nbsp"
 manageText = "ISODME.com"
 manageLink = "https://www.isodme.com"
 home = "Home"
