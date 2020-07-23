@@ -10,12 +10,12 @@ teacher: none
 duration: 5 Days, 8/10-8/14
 weekly: 7-22 Hours
 fee: Free!
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLSd3JAa5fhDaej2RbjqIPqR38lX887AnBQezwMX4r27ShLBC3Q/viewform?usp=sf_link
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLScA2n-OlQUyrJZA0kKcTggbfRzwfZ8og-SJEQRRSYSRpBqriA/viewform?usp=sf_link
 
 ---
 ### Overview
 
-IMPORTANT: Due to overflow of students, we will no longer be accepting signups in order to preserve the quality of our classes.
+IMPORTANT: Due to overflow of student sign-ups, we are temporarily closing signups in order to preserve the quality of our classes. You may register for our waitlist below
 
 We are pleased to host a virtual camp! The camp will be hosted Monday-Friday from **August 10-14**. The camp will be run virtually via Zoom. We will run three different classes, each meeting at a specific time every day. Each class will be 1.5 hours long, with a **10-15 minute break** in the middle. There will also be a **30 minute break** between consecutive classes. Students are encouraged to attend all the classes in any given day, however students may choose to attend fewer.
 
