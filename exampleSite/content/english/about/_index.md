@@ -32,7 +32,7 @@ Jonathan likes to see himself as a cool person who is passionate about programmi
 
 Steven has been programming since 6th grade, and has experience in both Java and Python. He has also competed in many competitive programming competitions and is placed in the Gold Division for USACO (USA Computing Olympiad). Apart from USACO, he also competes in ACSL (American Computer Science League) for his high school which was ranked among the top schools for the competition. He also has had past experience teaching robotics at a local computer science academy, KTByte, and also led software for a FTC Robotics Team.
 
-### Owen Wang, CS Instructor
+### Owen Wang, CS Instructor:
 
 Owen has been programming for 5 years and has gained a lot of knowlege from it. He has experience in a variety of languages including Java, HTML, CSS, JavaScript, and more. Owen has created multiple websites for numerous companies. He is also working with Jonathan on his hosting businesses. He is currently vigorously preparing for USACO (United States of America Computing Olympiad). Owen is a naturally great teacher and has gained a lot of experience being a teaching assistant at another computer science academy.
 
