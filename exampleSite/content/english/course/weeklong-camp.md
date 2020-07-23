@@ -10,7 +10,7 @@ teacher: none
 duration: 5 Days, 8/10-8/14
 weekly: 7-22 Hours
 fee: Free!
-apply_url: https://docs.google.com/forms/d/e/1FAIpQLScA2n-OlQUyrJZA0kKcTggbfRzwfZ8og-SJEQRRSYSRpBqriA/viewform?usp=sf_linhttps://docs.google.com/forms/d/e/1FAIpQLScA2n-OlQUyrJZA0kKcTggbfRzwfZ8og-SJEQRRSYSRpBqriA/viewform?usp=sf_link
+apply_url: https://docs.google.com/forms/d/e/1FAIpQLScA2n-OlQUyrJZA0kKcTggbfRzwfZ8og-SJEQRRSYSRpBqriA/viewform?usp=sf_link
 
 ---
 ### Overview
