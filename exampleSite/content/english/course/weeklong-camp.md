@@ -40,6 +40,6 @@ The daily schedule is as follows (Note that each 1.5 hour class will have a 10-1
 
 Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
 
-### Teachers: Jerry Tan, Steven Tan, and Alex Wang
+### Teachers: Jerry Tan, Steven Tan, Owen Wang, and Alex Wang
 
-Jerry, Steven, and Alex will be teaching this camp. Learn more about them [here](https://grass-stem.com/about/).
+Jerry, Steven, Owen, and Alex will be teaching this camp. Learn more about them [here](https://grass-stem.com/about/).
