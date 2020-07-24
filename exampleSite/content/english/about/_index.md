@@ -12,8 +12,6 @@ description: We are Grass STEM, a group of high school students with a variety o
 ---
 ## About the Team
 
-## 
-
 ### Jerry Tan, Co-Founder and Math Instructor:
 
 ![](/images/teachers/jerrytan.jpg)
