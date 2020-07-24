@@ -34,7 +34,7 @@ The daily schedule is as follows (Note that each 1.5 hour class will have a 10-1
 
 ### Time Commitment
 
-1\.5-4.5 hours per day for a week (depending on which classes one wishes to attend)
+1.5-4.5 hours per day for a week (depending on which classes one wishes to attend)
 
 ### Cost: Free
 
