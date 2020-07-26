@@ -34,12 +34,12 @@ The daily schedule is as follows (Note that each 1.5 hour class will have a 10-1
 
 ### Time Commitment
 
-1.5-4.5 hours per day for a week (depending on which classes one wishes to attend)
+1\.5-4.5 hours per day for a week (depending on which classes one wishes to attend)
 
 ### Cost: Free
 
 Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
 
-### Teachers: Jerry Tan, Steven Tan, Owen Wang, and Alex Wang
+### Teachers: Jerry Tan, Steven Tan, Alex Wang, and Owen Wang
 
-Jerry, Steven, Owen, and Alex will be teaching this camp. Learn more about them [here](https://grass-stem.com/about/).
+Jerry, Steven, Alex, and Owen will be teaching this camp. Learn more about them [here](https://grass-stem.com/about/).
