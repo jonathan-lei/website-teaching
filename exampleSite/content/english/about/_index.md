@@ -35,9 +35,3 @@ Steven has been programming since 6th grade, and has experience in both Java and
 ![](/images/teachers/alex_wang.jpg)
 
 Alex has a passion for biology and chemistry, most likely influenced by his parents’ work in the pharmaceutical industry. His interest began in 5th grade, where he far surpassed his teacher’s expectations in a chemistry report. Alex is currently a member of his high school science team and has participated in several competitions. Alex has also designed and performed various experiments in his spare time. He was offered a position for a summer internship in AstraZeneca. Alex has teaching experience from ACLS and enjoys helping his peers in science courses.
-
-### Owen Wang, CS Instructor:
-
-<!-- TODO: Add Owen's picture -->
-
-Owen has been programming for 5 years and has gained a lot of knowledge from it. He has experience in a variety of languages including Java, HTML, CSS, JavaScript, and more. Owen has created multiple websites for numerous companies. He is also working with Jonathan on his hosting businesses. He is currently vigorously preparing for USACO (United States of America Computing Olympiad). Owen is a naturally great teacher and has gained a lot of experience being a teaching assistant at another computer science academy.
