@@ -25,7 +25,7 @@ There are no prerequisites for this camp! This camp is meant to be an entry-leve
 
 ### Schedule
 
-The daily schedule is as follows (Note that each 1.5 hour class will have a 10-15 minute break in the middle of it) :
+The daily schedule is as follows (Note that each 1.5 hour class will have a 10-15 minute break in the middle of it):
 
 * 10:00 am - 11:30 am: Intro to Python with Game Design
 * 12:00pm - 1:30 pm : Lunch Break
