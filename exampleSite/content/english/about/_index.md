@@ -18,7 +18,7 @@ description: We are Grass STEM, a group of high school students with a variety o
 
 Jerry has competed in math competitions since fifth grade. His middle school team placed first at MATHCOUNTS States. Jerry is a two-time USAJMO qualifier (USA Junior Mathematical Olympiad), and this year has received an USAJMO Honorable Mention Award (Top 30 Nationally). Jerry is also on his high school science team, which went to the 2019 National Science Olympiad competition placing ninth. He also has received many medals at the invitational competitions, and is currently a state officer on the team. Jerry is currently in the MIT PRIMES program, a math research program for high schoolers, where he is currently learning college-level math. In the past, Jerry has experience tutoring competition math through ABMC’s tutoring program during the pandemic, and has also taught at ACLS.
 
-### Jonathan Lei, Co-Founder and Advisor:
+### Jonathan Lei, Co-Founder:
 
 ![](/images/teachers/teacher-1.jpg)
 
