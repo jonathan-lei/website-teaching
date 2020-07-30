@@ -42,6 +42,9 @@ Grass STEM is pleased to provide this camp for free! We want this opportunity to
 
 ### Teachers: 
 
-CS Instructors: Steven Tan, Marco Frigo, Jonathan lei, and Owen Wang
-Math Instructors: Jerry Tan, Michael Hu, Rhik Mazumder, and Cat Li
-Science Instructors: Alex Wang, Jalal Elsallal, Eichi Yoshizaki, and Andrew Hua
+# CS Instructors: 
+Steven Tan, Marco Frigo, Jonathan lei, and Owen Wang
+# Math Instructors: 
+Jerry Tan, Michael Hu, Rhik Mazumder, and Cat Li
+# Science Instructors: 
+Alex Wang, Jalal Elsallal, Eichi Yoshizaki, and Andrew Hua
