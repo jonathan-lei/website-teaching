@@ -40,6 +40,8 @@ The daily schedule is as follows (Note that each 1.5 hour class will have a 10-1
 
 Grass STEM is pleased to provide this camp for free! We want this opportunity to be available to everyone.
 
-### Teachers: Jerry Tan, Steven Tan, Alex Wang, Jonathan Lei, Jalal Elsallal, Marco Frigo, Eichi Yoshizaki, Michael Hu, Owen Wang, and Rhik Mazumder
+### Teachers: 
 
-Jerry, Steven, and Alex will be teaching this camp. Learn more about them [here](https://grass-stem.com/about/).
+CS Instructors: Steven Tan, Marco Frigo, Jonathan lei, and Owen Wang
+Math Instructors: Jerry Tan, Michael Hu, Rhik Mazumder, and Cat Li
+Science Instructors: Alex Wang, Jalal Elsallal, Eichi Yoshizaki, and Andrew Hua
