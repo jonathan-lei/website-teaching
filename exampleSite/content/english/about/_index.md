@@ -36,6 +36,10 @@ Steven has been programming since 6th grade, and has experience in both Java and
 
 Alex has a passion for biology and chemistry, most likely influenced by his parents’ work in the pharmaceutical industry. His interest began in 5th grade, where he far surpassed his teacher’s expectations in a chemistry report. Alex is currently a member of his high school science team and has participated in several competitions. Alex has also designed and performed various experiments in his spare time. He was offered a position for a summer internship in AstraZeneca. Alex has teaching experience from ACLS and enjoys helping his peers in science courses.
 
+### Jalal Elsallal
+
+Jalal has been intrigued by science since a very young age. Fascinated by the natural world, Jalal would spend hours over books reading and learning about different varieties of flora and fauna, extinct and extant. Throughout elementary school, his love for the natural world and its influence on the human race never faded. For example in the 5th grade, Jalal made a project analyzing the influence of Cod on New England’s economy, as well as dedicated his end of the year project to the evolution of life during the Paleozoic era. Jalal also won his school’s geography tournament in the sixth grade. But as his understanding of the world around him grew, so did his awareness of it. Although he can not solve diplomatic disputes, Jalal focuses to improve the community around him. Jalal has been a mentor at a children’s camp for 2 years and is the co-founder of Blessing Bags Boston, a charity organization working to aid the homeless of Boston.
+
 ### Marco Frigo, CS Instructor
 
 Marco has been programming since 5th grade, and has dabbled in a variety of languages, however his favorite is C. He also competes in programming competitions such USACO and has also helped organize one called Noctem Development. In addition, he has an interest in science and engineering, which led to him getting on the state team for his school's science team. There, he focused on astronomy and engineering.
@@ -52,7 +56,3 @@ Ever since he could remember, Michael has been enthusiastic about STEM related s
 ### Owen Wang
 
 Owen has been programming for 5 years and has gained a lot of knowledge from it. He has experience in a variety of languages including Java, HTML, CSS, JavaScript, and more. Owen has created multiple websites for numerous companies. He is also working with Jonathan on his hosting businesses. He is currently vigorously preparing for USACO (United States of America Computing Olympiad). Owen is a naturally great teacher and has gained a lot of experience being a teaching assistant at another computer science academy.
-
-### Andrew Hua
-
-### Rhik Mazumder
