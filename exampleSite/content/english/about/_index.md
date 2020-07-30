@@ -36,7 +36,7 @@ Steven has been programming since 6th grade, and has experience in both Java and
 
 Alex has a passion for biology and chemistry, most likely influenced by his parents’ work in the pharmaceutical industry. His interest began in 5th grade, where he far surpassed his teacher’s expectations in a chemistry report. Alex is currently a member of his high school science team and has participated in several competitions. Alex has also designed and performed various experiments in his spare time. He was offered a position for a summer internship in AstraZeneca. Alex has teaching experience from ACLS and enjoys helping his peers in science courses.
 
-### Jalal Elsallal
+### Jalal Elsallal, General Science Instructor
 ![](/images/teachers/jalal.jpg)
 
 
@@ -48,19 +48,19 @@ Jalal has been intrigued by science since a very young age. Fascinated by the na
 
 Marco has been programming since 5th grade, and has dabbled in a variety of languages, however his favorite is C. He also competes in programming competitions such USACO and has also helped organize one called Noctem Development. In addition, he has an interest in science and engineering, which led to him getting on the state team for his school's science team. There, he focused on astronomy and engineering.
 
-### Heichi Yoshizaki
+### Heichi Yoshizaki, General Science Instructor
 ![](/images/teachers/eichi.png)
 
 
 Eichi has been interested in math and science from a young age. He has many math books and DVDs at home, and he became a JHU CTY member in 7th grade. He has also participated in competitions such as AMC and math kangaroo, and he joined the math team in high school. His interest in science has grown more recently, when he joined the school’s science team. This year, he qualified to go with his team to invitational competitions at MIT, Harvard, and Brown, winning several medals. Right now, he is preparing to take SAT subject tests for Math II and Chemistry.
 
 
-### Michael Hu
+### Michael Hu, Math Instructor
 ![](/images/teachers/michael.jpg)
 
 
 Ever since he could remember, Michael has been enthusiastic about STEM related subjects. He’s always interested in things related to Science, Tech, and of course, Math. This year, Michael was on the high school science team and has received medals from various invitational tournaments. He has also volunteered and taught for many summer camps, many of them STEM focused. In his free time, Michael loves to go outdoors to hike and camp in the wilderness, as well as bike with his friends.
 
-### Owen Wang
+### Owen Wang, CS TA
 
 Owen has been programming for 5 years and has gained a lot of knowledge from it. He has experience in a variety of languages including Java, HTML, CSS, JavaScript, and more. Owen has created multiple websites for numerous companies. He is also working with Jonathan on his hosting businesses. He is currently vigorously preparing for USACO (United States of America Computing Olympiad). Owen is a naturally great teacher and has gained a lot of experience being a teaching assistant at another computer science academy.
