@@ -20,7 +20,7 @@ Jerry has competed in math competitions since fifth grade. His middle school tea
 
 ### Jonathan Lei, Founder and CS Instructor:
 
-![](/images/teachers/teacher-1.jpg)
+![](/images/teachers/jonathan.jpg)
 
 Jonathan likes to see himself as a cool person who is passionate about programming. He loves working on personal projects. One of his projects is creating and hosting websites as well as hosting storage. His basement is filled with servers. Earlier this year, Jonathan led a team to organize Hack3, an online hackathon attended by 275 participants from over 20 countries with 25 judges/mentors/teachers from Stanford University, Harvard University, Amazon Web Services, Wikipedia, and more. Speaking of hackathons, Jonathan holds the title as grand prize winner at Metrohacks, New England’s largest hackathon for high school students. In addition, he has been featured on national television.
 
@@ -37,19 +37,27 @@ Steven has been programming since 6th grade, and has experience in both Java and
 Alex has a passion for biology and chemistry, most likely influenced by his parents’ work in the pharmaceutical industry. His interest began in 5th grade, where he far surpassed his teacher’s expectations in a chemistry report. Alex is currently a member of his high school science team and has participated in several competitions. Alex has also designed and performed various experiments in his spare time. He was offered a position for a summer internship in AstraZeneca. Alex has teaching experience from ACLS and enjoys helping his peers in science courses.
 
 ### Jalal Elsallal
+![](/images/teachers/jalal.jpg)
+
 
 Jalal has been intrigued by science since a very young age. Fascinated by the natural world, Jalal would spend hours over books reading and learning about different varieties of flora and fauna, extinct and extant. Throughout elementary school, his love for the natural world and its influence on the human race never faded. For example in the 5th grade, Jalal made a project analyzing the influence of Cod on New England’s economy, as well as dedicated his end of the year project to the evolution of life during the Paleozoic era. Jalal also won his school’s geography tournament in the sixth grade. But as his understanding of the world around him grew, so did his awareness of it. Although he can not solve diplomatic disputes, Jalal focuses to improve the community around him. Jalal has been a mentor at a children’s camp for 2 years and is the co-founder of Blessing Bags Boston, a charity organization working to aid the homeless of Boston.
 
 ### Marco Frigo, CS Instructor
+![](/images/teachers/marco_prism.png)
+
 
 Marco has been programming since 5th grade, and has dabbled in a variety of languages, however his favorite is C. He also competes in programming competitions such USACO and has also helped organize one called Noctem Development. In addition, he has an interest in science and engineering, which led to him getting on the state team for his school's science team. There, he focused on astronomy and engineering.
 
 ### Heichi Yoshizaki
+![](/images/teachers/eichi.png)
+
 
 Eichi has been interested in math and science from a young age. He has many math books and DVDs at home, and he became a JHU CTY member in 7th grade. He has also participated in competitions such as AMC and math kangaroo, and he joined the math team in high school. His interest in science has grown more recently, when he joined the school’s science team. This year, he qualified to go with his team to invitational competitions at MIT, Harvard, and Brown, winning several medals. Right now, he is preparing to take SAT subject tests for Math II and Chemistry.
 
 
 ### Michael Hu
+![](/images/teachers/michael.jpg)
+
 
 Ever since he could remember, Michael has been enthusiastic about STEM related subjects. He’s always interested in things related to Science, Tech, and of course, Math. This year, Michael was on the high school science team and has received medals from various invitational tournaments. He has also volunteered and taught for many summer camps, many of them STEM focused. In his free time, Michael loves to go outdoors to hike and camp in the wilderness, as well as bike with his friends.
 
