@@ -43,10 +43,9 @@ Alex has a passion for biology and chemistry, most likely influenced by his pare
 Jalal has been intrigued by science since a very young age. Fascinated by the natural world, Jalal would spend hours over books reading and learning about different varieties of flora and fauna, extinct and extant. Throughout elementary school, his love for the natural world and its influence on the human race never faded. For example in the 5th grade, Jalal made a project analyzing the influence of Cod on New England’s economy, as well as dedicated his end of the year project to the evolution of life during the Paleozoic era. Jalal also won his school’s geography tournament in the sixth grade. But as his understanding of the world around him grew, so did his awareness of it. Although he can not solve diplomatic disputes, Jalal focuses to improve the community around him. Jalal has been a mentor at a children’s camp for 2 years and is the co-founder of Blessing Bags Boston, a charity organization working to aid the homeless of Boston.
 
 ### Marco Frigo, CS Instructor
-![](/images/teachers/marco_prism.png)
+![](/images/teachers/wide_frigus.png)
 
-
-Marco has been programming since 5th grade, and has dabbled in a variety of languages, however his favorite is C. He also competes in programming competitions such USACO and has also helped organize one called Noctem Development. In addition, he has an interest in science and engineering, which led to him getting on the state team for his school's science team. There, he focused on astronomy and engineering.
+Marco has been programming since 5th grade, and has experience in a variety of languages, however his favorite is C. He also competes in programming competitions such USACO and has also helped organize one called Noctem Development. In addition, he has an interest in science and engineering, which led to him getting on the state team for his school's science team. There, he focused on astronomy and engineering, which earned him medals at colleges such as MIT and Brown.
 
 ### Heichi Yoshizaki, General Science Instructor
 ![](/images/teachers/eichi.png)
