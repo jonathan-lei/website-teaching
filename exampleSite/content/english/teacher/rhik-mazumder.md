@@ -4,8 +4,9 @@ bio = "Rhik has possessed an interest in competitive math from an early age. In 
 contact = []
 course = "Math"
 description = "Math Instructor"
-image = "/images/backgrounds/success-story.jpg"
+image = ""
 interest = ["Math"]
 title = "Rhik Mazumder"
+type = ""
 
 +++
