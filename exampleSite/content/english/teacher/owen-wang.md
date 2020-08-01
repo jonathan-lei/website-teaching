@@ -4,8 +4,9 @@ bio = "Owen has been programming for 5 years and has gained a lot of knowledge f
 contact = []
 course = "Computer Science"
 description = ""
-image = "/images/backgrounds/success-story.jpg"
+image = ""
 interest = ["Computer Science"]
 title = "Owen Wang"
+type = ""
 
 +++
