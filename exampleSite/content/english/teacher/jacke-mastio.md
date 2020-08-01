@@ -1,8 +1,8 @@
 ---
 title: Steven Tan
-bg_image: images/backgrounds/page-title.jpg
+bg_image: "/images/code-background.jpg"
 description: 'Steven Tan leads our core computer science classes. '
-image: "/images/scholarship/scholarship-item-3.jpg"
+image: "/images/teachers/steventan.jpg"
 course: Programming
 bio: Steven has been programming since 6th grade, and has experience in both java
   and python. He has also competed in many competitive programming competitions and
@@ -11,31 +11,8 @@ bio: Steven has been programming since 6th grade, and has experience in both jav
   computer science club. He has experience with python libraries such as numpy, pandas,
   matplotlib, and has worked on many projects involving processing data.
 interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
-contact:
-- name: clarkmalik@email.com
-  icon: ti-email
-  link: mailto:clarkmalik@email.com
-- name: "+12 034 5876"
-  icon: ti-mobile
-  link: tel:+120345876
-- name: Clark Malik
-  icon: ti-facebook
-  link: "#"
-- name: Clark Malik
-  icon: ti-twitter-alt
-  link: "#"
-- name: Clark Malik
-  icon: ti-skype
-  link: "#"
-- name: clarkmalik.com
-  icon: ti-world
-  link: "#"
-- name: 1313 Boulevard Cremazie,Quebec
-  icon: ti-location-pin
-  link: "#"
-draft: true
+- Computer Science
+- Math
+contact: []
 
 ---
