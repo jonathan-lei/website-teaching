@@ -48,6 +48,7 @@ fields:
   default: teacher
 pages:
 - exampleSite/content/english/teacher/alex-wang.md
+- exampleSite/content/english/teacher/eichi-yoshizaki.md
 - exampleSite/content/english/teacher/jalal-elsallal.md
 - exampleSite/content/english/teacher/jonathan-lei.md
 - exampleSite/content/english/teacher/marco-frigo.md
