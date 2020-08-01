@@ -4,7 +4,7 @@ bio = "Eichi has been interested in math and science from a young age. He has ma
 contact = []
 course = "Science"
 description = "General Science Instructor"
-image = ""
+image = "/images/teachers/eichi.png"
 interest = ["Science"]
 title = "Eichi Yoshizaki"
 
