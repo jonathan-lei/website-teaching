@@ -47,5 +47,6 @@ fields:
   label: type
   default: teacher
 pages:
+- exampleSite/content/english/teacher/alex-wang.md
 - exampleSite/content/english/teacher/jonathan-lei.md
 - exampleSite/content/english/teacher/steven-tan.md
