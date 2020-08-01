@@ -63,3 +63,7 @@ Ever since he could remember, Michael has been enthusiastic about STEM related s
 ### Owen Wang, CS TA
 
 Owen has been programming for 5 years and has gained a lot of knowledge from it. He has experience in a variety of languages including Java, HTML, CSS, JavaScript, and more. Owen has created multiple websites for numerous companies. He is also working with Jonathan on his hosting businesses. He is currently vigorously preparing for USACO (United States of America Computing Olympiad). Owen is a naturally great teacher and has gained a lot of experience being a teaching assistant at another computer science academy.
+
+### Rhik Mazumder, Math Instructor
+
+Rhik has possessed an interest in competitive math from an early age. In elementary and middle school, he participated in Math Kangaroo, MOEMS, MATHCOUNTS, and AMC 8. Currently, he still actively participates in math competitions qualifying for AIME and participating in Harvard-MIT Math Tournament, American Regional Math League, and USA Mathematical Talent Search. Recently, he has also started his own company called MathEx which helps students reach their level of excellence in math. MathEx has a youtube channel with over a hundred free videos in all areas of math from elementary school logic puzzles to prestigious highschool competition problems.
