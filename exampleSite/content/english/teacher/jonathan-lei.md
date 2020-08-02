@@ -5,7 +5,8 @@ contact = []
 course = "Co-Founder"
 description = "Co-Founder and Computer Science Instructor"
 image = "/images/teachers/jonathan.jpg"
-interest = ["Programming", "Math", "Science"]
+interest = ["Programming"]
 title = "1. Jonathan Lei"
+type = ""
 
 +++
