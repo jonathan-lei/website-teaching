@@ -6,6 +6,7 @@ course = "Science"
 description = "General Science Instructor"
 image = "/images/teachers/alex_wang.jpg"
 interest = ["Science"]
-title = "4. Alex Wang"
+title = "Alex Wang"
+type = ""
 
 +++
