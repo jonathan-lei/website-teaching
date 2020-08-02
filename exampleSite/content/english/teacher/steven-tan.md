@@ -5,7 +5,8 @@ contact = []
 course = "Co-Founder"
 description = "Co-Founder and Computer Science Instructor"
 image = "/images/teachers/steventan.jpg"
-interest = ["Programming", "Science", "Math"]
+interest = ["Programming"]
 title = "3. Steven Tan"
+type = ""
 
 +++
