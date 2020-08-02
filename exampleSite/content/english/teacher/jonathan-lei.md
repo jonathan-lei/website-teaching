@@ -6,7 +6,7 @@ course = "Co-Founder"
 description = "Co-Founder and Computer Science Instructor"
 image = "/images/teachers/jonathan.jpg"
 interest = ["Programming"]
-title = "1. Jonathan Lei"
+title = "Jonathan Lei"
 type = ""
 
 +++
