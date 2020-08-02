@@ -6,7 +6,7 @@ course = "Math"
 description = "Math Instructor"
 image = "/images/profile.webp"
 interest = ["Math"]
-title = "10. Rhik Mazumder"
+title = "Rhik Mazumder"
 type = ""
 
 +++
