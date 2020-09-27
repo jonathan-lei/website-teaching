@@ -3,14 +3,12 @@ slider:
   enable: true
   bg_image: images/code-background.jpg
   slider_item:
-  - title: Free STEM Camp
-    content: A free 5-day STEM camp that covers math, computer science, and more,
-      for elementary and middle school students who have an interest for STEM. The
-      camp will be run virtually from August 10-14. Sign up today!
-    button:
-      enable: true
-      label: Sign Up
-      link: course/weeklong-camp/
+  - title: Future Camps
+    content: As of now, there aren't any scheduled camps, but they will likely be hosted during school breaks and over the summer. Stay tuned!
+    #button:
+    #  enable: true
+    #  label: Sign Up
+    #  link: [insert link]
     
 about:
   enable: true
@@ -26,7 +24,7 @@ about:
     link: about
 
 cta:
-  enable : true
+  enable : false
   subtitle : "Registration Open! Sign up today!"
   title : "Virtual Summer Camp - August 10-14"
   button:
@@ -35,6 +33,6 @@ cta:
     link : "course/weeklong-camp/"
     
 course:
-  enable : true
+  enable : false
   title : "Our Courses/Camps"
   # course item comes from "content/**/course" folder.
